@@ -34,8 +34,9 @@ Requires Python 3.9 or later.
        streamlit run app.py
 
    If `streamlit` is not recognised, use `python -m streamlit run app.py`.
+   If you use Anaconda, run these commands in Anaconda Prompt.
 
-5. The app opens in your browser. If it does not, use the URL printed in the
+6. The app opens in your browser. If it does not, use the URL printed in the
    terminal, usually http://localhost:8501
 
 The first run downloads the Sentence-BERT model, about 90 MB, so it may take a
