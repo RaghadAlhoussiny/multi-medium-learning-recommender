@@ -1,0 +1,5 @@
+Model,Precision@10,Recall@10,NDCG@10
+Popularity,0.03,0.15,0.0977
+Collaborative filtering,0.0066,0.033,0.0173
+Content-based (semantic),0.0158,0.079,0.0491
+Hybrid,0.0408,0.204,0.1463
