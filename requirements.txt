@@ -3,5 +3,3 @@ pandas
 numpy
 scikit-learn
 sentence-transformers
-matplotlib
-scikit-surprise
